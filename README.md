@@ -8,7 +8,7 @@ PostgreSQL 是一种非常复杂的对象-关系型数据库管理系统（ORDBM
 Apache Cassandra 是一套开源分布式健值存储系统，它最初由Facebook开发，用于储存特别大的数据。
 
 ### Ceph
-Ceph 是一个 Linux PB 级分布式文件系统，它还是具有企业级功能的统一存储解决方案。
+Ceph 是一个 Linux PB 级分布式文件系统，它还是具有企业级功能的统一存储解决方案。
 
 Ceph之父Sage：Ceph要做分布式存储领域的Linux。
 
